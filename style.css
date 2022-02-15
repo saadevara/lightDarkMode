@@ -86,8 +86,12 @@ a:focus {
 }
 
 /* About Section */
+
 .about-container {
   display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
 }
 
 .image-container {
