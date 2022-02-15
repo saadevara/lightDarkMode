@@ -59,6 +59,7 @@ nav {
   z-index: 10;
   position: fixed;
   font-size: 24px;
+  font-family: oswald,sans-serif;
   letter-spacing: 3px;
   padding: 25px;
   width: 100vw;
